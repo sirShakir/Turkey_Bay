@@ -4,9 +4,4 @@ var config = {
     //width: 224,
     //height: 224,
     parent: 
-
-
-
-
-
     zzzzzzzzzz
