@@ -6,6 +6,7 @@ var config = {
     parent: "game-container",
     pixalArt: true,
     physics:{
+    physics:{ 
         default: 'arcade', 
         arcade : {
             debug : true
