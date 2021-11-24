@@ -1,5 +1,4 @@
 
-    //width: 224,
     parent: "game-container",
     pixalArt: true,
     physics:{
